@@ -2,3 +2,6 @@
 
 Dependencies
 - gpiozero
+
+Notes
+- https://www.mpja.com/download/31227sc.pdf
